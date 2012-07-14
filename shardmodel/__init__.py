@@ -1,0 +1,5 @@
+__author__ = "Erik Smartt"
+__copyright__ = "Copyright 2012, Erik Smartt"
+__license__ = "BSD"
+__version__ = "0.1"
+__url__ = "http://github.com/smartt/django-shardmodel"
